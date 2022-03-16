@@ -1,0 +1,13 @@
+name: C/C++ CI
+#incluir<iostream>
+utilizando el espacio de nombres estándar;
+int principal () {
+       flotador L,M,N;
+       cout<<"
+ingrese 2 numeros L y M:";
+      cin>>L>>M;
+      C=L+M;
+      COUT<<" El resultado es:";
+      cout<<c:
+      devolver 0;
+}
